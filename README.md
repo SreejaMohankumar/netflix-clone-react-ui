@@ -38,9 +38,8 @@ This is a **Netflix UI Clone** built using **ReactJS**, inspired by the YouTube 
 
 ---
 
-## 💻 Live Demo
 
-> Coming soon – deployment planned via Netlify/Vercel
+🔗 **Live Demo**: [sreeflix-react-clone.netlify.app](https://sreeflix-react-clone.netlify.app/)
 
 ---
 
