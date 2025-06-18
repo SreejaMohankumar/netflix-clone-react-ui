@@ -1,12 +1,61 @@
-# React + Vite
+# Netflix Clone – ReactJS UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Netflix UI Clone** built using **ReactJS**, inspired by the YouTube tutorial by *GreatStack*.  
+🔗 [Watch Tutorial](https://www.youtube.com/watch?v=lpx2zFkapIk)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Completed Features
 
-## Expanding the ESLint configuration
+- 🟢 ReactJS setup with Vite
+- 🟢 Signup/Login Page UI
+- 🟢 Firebase Authentication (Email & Password)
+- 🟢 TMDB API integration to fetch movie posters
+- 🟢 Homepage layout with dynamic content
+- 🟢 Component-based folder structure
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚧 Upcoming Features (Planned)
+
+- 📺 Video trailer popup (YouTube preview)
+- 🧑‍💼 Profile management section
+- 📱 Enhanced mobile responsiveness
+- 🎨 Dark/light mode switch (optional)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech         | Used For                     |
+|--------------|------------------------------|
+| React        | UI development               |
+| Vite         | Project scaffolding/build    |
+| Firebase     | User Authentication          |
+| TMDB API     | Movie data (title/posters)   |
+| React Router | Navigation                   |
+| Bootstrap 5  | Styling & responsiveness     |
+
+---
+
+## 💻 Live Demo
+
+> Coming soon – deployment planned via Netlify/Vercel
+
+---
+
+## 🙋‍♀️ About Me
+
+I’m **Sreeja Mohankumar**, a Frontend Developer with 6+ years of experience in building modern React applications.  
+This project is part of my GitHub portfolio for ReactJS interviews.
+
+📫 [sreejait18@gmail.com](mailto:sreejait18@gmail.com)  
+🔗 [GitHub Profile](https://github.com/SreejaMohankumar)
+
+---
+
+## 📄 License
+
+This project is for learning and demonstration purposes only.
+
+
